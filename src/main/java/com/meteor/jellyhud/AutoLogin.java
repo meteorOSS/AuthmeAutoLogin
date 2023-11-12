@@ -50,7 +50,7 @@ public class AutoLogin {
             builder.push("AutoLoginSetting");
             this.ipAddres = builder
                     .comment("你的服务器ip地址")
-                    .define("showCompass", "127.0.0.1:10003");
+                    .define("ipAddress", "127.0.0.1:10003");
             builder.pop();
         }
     }
