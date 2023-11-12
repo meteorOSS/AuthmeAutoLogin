@@ -20,4 +20,5 @@
 	ipAddress = "127.0.0.1:8903"
 ```
 
-配套bukkit插件 [AuthmeAutoLogin-plugin]([https://markdown.com.cn](https://github.com/meteorOSS/AuthmeAutoLogin-plugin)https://github.com/meteorOSS/AuthmeAutoLogin-plugin)
+配套bukkit插件 
+[AuthmeAutoLogin-plugin](https://github.com/meteorOSS/AuthmeAutoLogin-plugin)https://github.com/meteorOSS/AuthmeAutoLogin-plugin)
