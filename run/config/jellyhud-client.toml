@@ -1,0 +1,5 @@
+
+[AutoLoginSetting]
+	#你的服务器ip地址
+	showCompass = "127.0.0.1:10003"
+
