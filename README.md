@@ -21,4 +21,4 @@
 ```
 
 配套bukkit插件 
-[AuthmeAutoLogin-plugin](https://github.com/meteorOSS/AuthmeAutoLogin-plugin)https://github.com/meteorOSS/AuthmeAutoLogin-plugin)
+[AuthmeAutoLogin-plugin](https://github.com/meteorOSS/AuthmeAutoLogin-plugin)
