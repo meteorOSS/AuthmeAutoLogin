@@ -4,7 +4,7 @@
 ### 去除主菜单，直接输入密码进入指定的服务器 (新用户将自动注册)
 
 模组基于 1.18 开发
-安装前请确保使用的是 [https://github.com/AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded)
+安装前请确保使用的是 [AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded)
 
 ### 动图展示:
 
@@ -19,3 +19,5 @@
 	#你的服务器ip地址
 	ipAddress = "127.0.0.1:8903"
 ```
+
+配套bukkit插件 [AuthmeAutoLogin-plugin]([https://markdown.com.cn](https://github.com/meteorOSS/AuthmeAutoLogin-plugin)https://github.com/meteorOSS/AuthmeAutoLogin-plugin)
